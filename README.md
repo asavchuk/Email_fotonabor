@@ -1,2 +1,1 @@
-"# Email_fotonabor" 
-"# Email_fotonabor" 
+Отправка файлов по e-mail.
